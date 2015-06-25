@@ -1,0 +1,866 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"urlRouterProvider"
+			],
+			[
+				"data",
+				"dataService"
+			],
+			[
+				"fire",
+				"fireData"
+			],
+			[
+				"ne",
+				"newTextMessage"
+			],
+			[
+				"text",
+				"textMessages"
+			],
+			[
+				"party",
+				"partyServiceObject"
+			],
+			[
+				"auth",
+				"authServiceObject"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"fi",
+				"firebaseSimpleLogin"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"textM",
+				"textMessages"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"bet",
+				"betaVector"
+			],
+			[
+				"b",
+				"beta"
+			],
+			[
+				"beta",
+				"betaVector"
+			],
+			[
+				"str",
+				"StringWriter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 1176,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/views/restaurants/restaurants.html",
+			"settings":
+			{
+				"buffer_size": 593,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/views/restaurants/restaurants.js",
+			"settings":
+			{
+				"buffer_size": 644,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 1242,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/arrizabalaga/projects/ionic/chapter4",
+		"/home/arrizabalaga/projects/ionic/chapter4/www",
+		"/home/arrizabalaga/projects/ionic/chapter4/www/views",
+		"/home/arrizabalaga/projects/ionic/chapter4/www/views/restaurants",
+		"/home/arrizabalaga/projects/ionic/chapter4book/www",
+		"/home/arrizabalaga/projects/ionic/chapter4book/www/js",
+		"/home/arrizabalaga/projects/ionic/chapter4book/www/views",
+		"/home/arrizabalaga/projects/ionic/chapter4book/www/views/home",
+		"/home/arrizabalaga/projects/ionic/chapter4book/www/views/reservation"
+	],
+	"file_history":
+	[
+		"/home/arrizabalaga/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/arrizabalaga/projects/ionic/chapter4/www/views/weather/weather.html",
+		"/home/arrizabalaga/projects/ionic/chapter4/www/views/weather/weather.js",
+		"/home/arrizabalaga/projects/ionic/chapter4/www/js/app.js",
+		"/home/arrizabalaga/projects/ionic/chapter4/www/index.html",
+		"/home/arrizabalaga/projects/ionic/chapter4book/www/index.html",
+		"/home/arrizabalaga/projects/ionic/chapter4book/www/views/reservation/reservation.html",
+		"/home/arrizabalaga/projects/ionic/chapter4book/www/views/reservation/reservation.js",
+		"/home/arrizabalaga/projects/ionic/chapter4/www/views/reservation/reservation.html",
+		"/home/arrizabalaga/projects/ionic/chapter4/www/views/reservation/reservation.js",
+		"/home/arrizabalaga/.config/sublime-text-3/Packages/Diffy/Diffy.sublime-settings",
+		"/home/arrizabalaga/projects/ionic/chapter4book/www/js/app.js",
+		"/home/arrizabalaga/projects/ionic/chapter4/www/views/home/home.html",
+		"/home/arrizabalaga/projects/ionic/chapter4book/www/views/home/home.html",
+		"/home/arrizabalaga/projects/ionic/chapter3/index.html",
+		"/home/arrizabalaga/projects/ionic/chapter3/js/app.js",
+		"/home/arrizabalaga/projects/ionic/chapter3/js/editor.js",
+		"/home/arrizabalaga/projects/ionic/chapter3/data/notes.json",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/pom.xml",
+		"/home/arrizabalaga/Desktop/todo.txt",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/src/main/java/com/abamobile/blunder/activity/RankingActivity.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/src/main/java/com/abamobile/blunder/activity/LoginActivity.java",
+		"/home/arrizabalaga/Desktop/localhost_access_log.2015-06-18.txt",
+		"/home/arrizabalaga/Desktop/LogBlunder.log.2015-06-18",
+		"/home/arrizabalaga/Desktop/error_categoria_padre.csv",
+		"/home/arrizabalaga/Desktop/catalina.out.1",
+		"/home/arrizabalaga/Desktop/catalina.2015-06-18.log",
+		"/home/arrizabalaga/projects/android/ContentProviderLabContentProvider/src/course/labs/contentproviderlab/provider/PlaceBadgeContentProvider.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/src/main/java/com/abamobile/blunder/fragments/RankingsFragment.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/src/samsungApps/java/com/abamobile/blunder/tizen/connection/TizenConnection.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/src/main/java/com/abamobile/blunder/services/ListadoRankingService.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/src/main/java/com/abamobile/blunder/services/JsonServices.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/src/main/java/com/abamobile/blunder/utils/Constantes.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/controller/json/RankingJsonController.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/service/PreguntaServiceImpl.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/src/main/java/com/abamobile/blunder/activity/RecordarPassActivity.java",
+		"/home/arrizabalaga/projects/eyeseetea/malariapp/dep.txt",
+		"/home/arrizabalaga/projects/eyeseetea/malariapp/app/app.iml",
+		"/home/arrizabalaga/Documents/blunder/blunder.es/tos.html",
+		"/home/arrizabalaga/Documents/blunder/blunder.es/index.html",
+		"/etc/environment",
+		"/home/arrizabalaga/projects/eyeseetea/malariapp/.gitignore",
+		"/home/arrizabalaga/Documents/blunder/blunder.es/css/style.css",
+		"/home/arrizabalaga/Desktop/apache.txt",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/pre/email.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/pro/email.properties",
+		"/home/arrizabalaga/projects/eyeseetea/malariapp/app/build.gradle",
+		"/home/arrizabalaga/projects/android/testStudio/myProj_build",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/target/blunder/WEB-INF/jsp/backoffice/liga/editLiga.jsp",
+		"/home/arrizabalaga/projects/eyeseetea/malariapp/docs/database.md",
+		"/home/arrizabalaga/Desktop/jetbrains-android-studio.desktop",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/src/main/res/layout/activity_login.xml",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/src/main/java/com/abamobile/blunder/activity/LoginActivity.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/webapp/WEB-INF/jsp/backoffice/partida/editPartida.jsp",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/webapp/resources/js/table-data.js",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/webapp/WEB-INF/jsp/backoffice/partida/newPartida_step1.jsp",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/webapp/WEB-INF/jsp/backoffice/partida/newPartida_step3.jsp",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/webapp/WEB-INF/templates/backoffice/head.jsp",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/webapp/WEB-INF/jsp/backoffice/partida/newPartida_step2.jsp",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/webapp/resources/js/partida.js",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/target/blunder/WEB-INF/templates/backoffice/head.jsp",
+		"/home/arrizabalaga/projects/java/testdocs/docs/about.md",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/webapp/WEB-INF/templates/backoffice/menu.jsp",
+		"/home/arrizabalaga/Desktop/mock.html",
+		"/home/arrizabalaga/projects/java/testdocs/mkdocs.yml",
+		"/home/arrizabalaga/projects/java/testdocs/docs/index.md",
+		"/home/arrizabalaga/utils/dhis/config/hibernate.properties",
+		"/home/arrizabalaga/utils/dhis/demo.sql",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/bbdd/01. CREATE_TABLES.sql",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/bbdd/01. CREATE_TABLES_MYSQL_5.5.sql",
+		"/home/arrizabalaga/Desktop/intellij-community-studio.desktop",
+		"/home/arrizabalaga/.ssh/config",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/resources/spring/security-config.xml",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/security/CustomPasswordEncoder.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/security/CustomUserDetailService.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/service/UsuarioServiceImpl.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/service/UsuarioService.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/validator/UsuarioValidator.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/controller/json/PartidaJsonController.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/entity/UsuarioC.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/controller/json/JsonControler.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/controller/LoginController.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/utils/FotosUtils.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/pro/notificaciones.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/resources/fotos.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/src/main/java/com/abamobile/blunder/utils/FileUtils.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/utils/NotificactionUtils.java",
+		"/home/arrizabalaga/Desktop/server.tree",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/resources/messages.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/src/main/java/com/abamobile/blunder/utils/AutenticationUtils.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/src/main/java/com/abamobile/blunder/utils/ConnectionUtils.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/controller/json/AutenticateJsonController.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/pre/log4j.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/test/java/com/abamobile/blunder/services/EmpresaServiceTest.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/dev/log4j.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/dev/email.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/dev/fotos.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/entity/PreguntaC.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/kk.log",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/pro/log4j.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/src/main/java/com/abamobile/blunder/vo/UsuarioVO.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/src/samsungApps/java/com/abamobile/blunder/tizen/receivers/TizenListadoPreguntasReceiver.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/src/samsungApps/java/com/abamobile/blunder/tizen/receivers/TizenBroadcastReceiver.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/pre/fotos.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/build.gradle",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/src/main/java/com/abamobile/blunder/fragments/DetallePreguntaFragment.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-android/app/src/main/java/com/abamobile/blunder/fragments/DetalleValidarRespuestaFragment.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/pre/spring/jdbc.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/pre/spring/jdbcTest.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/vo/DatosPreguntaMovilVO.java",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/dev/spring/jdbcTest.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/profiles/pre/notificaciones.properties",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/.gitignore",
+		"/var/lib/tomcat7/webapps/blunder/WEB-INF/classes/email.properties",
+		"/home/arrizabalaga/Desktop/pass",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/service/NotificacionServiceImpl.java",
+		"/home/arrizabalaga/Desktop/adi.mm",
+		"/home/arrizabalaga/Desktop/screenshots/adi.mm",
+		"/home/arrizabalaga/Desktop/Blunder/Movil/android/Blunder/app/build.gradle",
+		"/var/lib/jenkins/.m2/settings.xml",
+		"/home/arrizabalaga/.profile",
+		"/etc/default/jenkins",
+		"/var/log/jenkins/jenkins.log",
+		"/home/arrizabalaga/projects/blunder/blunder-aba-back/.git/hooks/post-update.sample",
+		"/home/arrizabalaga/Desktop/Vale guay queremos ser gente decente así que vamos",
+		"/home/arrizabalaga/Desktop/leeme-developer.txt",
+		"/var/lib/tomcat7/logs/catalina.out",
+		"/home/arrizabalaga/Desktop/BlunderDump20150323/blunder_one_file.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/arrizabalaga/projects/ionic/chapter4/www",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-android/app",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-android",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-android/src/main/java",
+			"/home/arrizabalaga/projects/blunder",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-back, *.jsp, *.js",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-back, *.jsp",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-back, *.java, *.xml",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-android, *.java, *.xml",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-back, *.java, *.xml",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-back *.java, *.xml",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-android",
+			"<current file>",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-android, *.java, *.xml",
+			"/home/arrizabalaga/projects/blunder",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-back, *.java, *.xml",
+			"<current file>",
+			"/home/arrizabalaga/projects/blunder/blunder-aba-back",
+			"/home/arrizabalaga/ldh/liferay-portal",
+			"/home/arrizabalaga/projects/plaform-infrastructure-hiring-metrics-system-exercice"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"WeatherController",
+			"New",
+			"No row with the given identifier ",
+			"mari",
+			"onActivityCreated",
+			"onCreateView",
+			"LoginReceiver",
+			"extends BroadcastReceiver",
+			"CTE_RANKING",
+			"ACTION_WEARABLE_FIN_PISTOLERO",
+			"obtenerRanking",
+			"CTE_URL_RANKING",
+			"ranking/preguntas",
+			"onOptionsItemSelected",
+			"junit",
+			"LoginReceiver",
+			"cbRecordar",
+			"validarSesionJson",
+			"comprobarTodosSeleccionados",
+			"<%--",
+			"Todos",
+			"panel-default",
+			"container-speed",
+			"200",
+			"t_pregunta",
+			"CustomPasswordEncoder",
+			"\"/preguntas/save\"",
+			"CTE_URL_NUEVA_PREGUNTA",
+			"loadPropertiesNotificaciones",
+			"IOS_PASSKEYSTORE",
+			"ios.passkeystore",
+			"establecerSesionJson",
+			"validarSesionJson",
+			"\"preguntas/list\"",
+			"preguntas/list",
+			"CTE_URL_LISTADO_PREGUNTAS",
+			"ABA",
+			"getUrlImagenes",
+			"KEY_URL_IMAGENES",
+			"url.servidor",
+			"Constantes.CTE_URL_BASE",
+			"blunderEstatico",
+			";",
+			"	public static final String ",
+			"URL_BASE",
+			"Blunder.p12",
+			"IOS_ENTORNOPRODUCCION",
+			"ios.entornoProduccion",
+			"IOS_KEYSTORE",
+			"dirkeystore",
+			"img src=\"",
+			"3062",
+			"getPosicionRankingRespuestasCorrectasTest",
+			"tiempo",
+			"respuesta",
+			"HTTP_PORT",
+			"CURRENT_",
+			"error",
+			"bcprov",
+			"error",
+			"org.osgi.framework",
+			"org.apache.felix.framework",
+			"host",
+			"setLDAPUserImporter",
+			"BundleActivator",
+			"parties"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"img src=\"screenshots/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								871,
+								871
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/views/restaurants/restaurants.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/views/restaurants/restaurants.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								710,
+								710
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chapter4.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.ht",
+				"chapter4/www/index.html"
+			],
+			[
+				"app.js",
+				"chapter4/www/js/app.js"
+			],
+			[
+				"home",
+				"chapter4/www/views/home/home.html"
+			],
+			[
+				"app.",
+				"chapter4book/www/js/app.js"
+			],
+			[
+				"app",
+				"chapter4/www/js/app.js"
+			],
+			[
+				"constan",
+				"blunder/blunder-aba-android/app/src/main/java/com/abamobile/blunder/utils/Constantes.java"
+			],
+			[
+				"preguntaser",
+				"blunder/blunder-aba-back/src/main/java/com/abamobile/blunder/service/PreguntaServiceImpl.java"
+			],
+			[
+				"editli",
+				"blunder/blunder-aba-back/target/blunder/WEB-INF/jsp/backoffice/liga/editLiga.jsp"
+			],
+			[
+				"loginac",
+				"blunder/blunder-aba-android/src/main/java/com/abamobile/blunder/activity/LoginActivity.java"
+			],
+			[
+				"activity",
+				"blunder/blunder-aba-android/src/main/res/layout/activity_login.xml"
+			],
+			[
+				"tab",
+				"blunder/blunder-aba-back/src/main/webapp/resources/js/table-data.js"
+			],
+			[
+				"backoffice/head.jsp",
+				"blunder/blunder-aba-back/src/main/webapp/WEB-INF/templates/backoffice/head.jsp"
+			],
+			[
+				"head.",
+				"blunder/blunder-aba-back/target/blunder/WEB-INF/templates/backoffice/head.jsp"
+			],
+			[
+				"custompasswordencoder",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/security/CustomPasswordEncoder.java"
+			],
+			[
+				"customuserdetailservice",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/security/CustomUserDetailService.java"
+			],
+			[
+				"usuarioser",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/service/UsuarioService.java"
+			],
+			[
+				"usuarioc",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/entity/UsuarioC.java"
+			],
+			[
+				"usuariovali",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/validator/UsuarioValidator.java"
+			],
+			[
+				"fileuti",
+				"blunder-aba-android/src/main/java/com/abamobile/blunder/utils/FileUtils.java"
+			],
+			[
+				"usuarioserviceim",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/service/UsuarioServiceImpl.java"
+			],
+			[
+				"autenti",
+				"blunder-aba-android/src/main/java/com/abamobile/blunder/utils/AutenticationUtils.java"
+			],
+			[
+				"constant",
+				"blunder-aba-android/app/src/main/java/com/abamobile/blunder/utils/Constantes.java"
+			],
+			[
+				"connection",
+				"blunder-aba-android/app/src/main/java/com/abamobile/blunder/utils/ConnectionUtils.java"
+			],
+			[
+				"foto.",
+				"blunder-aba-back/profiles/dev/fotos.properties"
+			],
+			[
+				"tizenbroadcastreceiver",
+				"blunder-aba-android/src/samsungApps/java/com/abamobile/blunder/tizen/receivers/TizenBroadcastReceiver.java"
+			],
+			[
+				"usuario",
+				"blunder-aba-android/src/main/java/com/abamobile/blunder/vo/UsuarioVO.java"
+			],
+			[
+				"fileutil",
+				"blunder-aba-android/src/main/java/com/abamobile/blunder/utils/FileUtils.java"
+			],
+			[
+				"usuaro",
+				"blunder-aba-android/src/main/java/com/abamobile/blunder/vo/UsuarioVO.java"
+			],
+			[
+				"constante",
+				"blunder-aba-android/app/src/main/java/com/abamobile/blunder/utils/Constantes.java"
+			],
+			[
+				"preguntac",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/entity/PreguntaC.java"
+			],
+			[
+				"datospre",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/vo/DatosPreguntaMovilVO.java"
+			],
+			[
+				"fotou",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/utils/FotosUtils.java"
+			],
+			[
+				"jdbt",
+				"blunder-aba-back/profiles/dev/spring/jdbcTest.properties"
+			],
+			[
+				"notificacionser",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/service/NotificacionServiceImpl.java"
+			],
+			[
+				"actividadusuario",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/entity/ActividadUsuarioC.java"
+			],
+			[
+				"gener",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/dao/GenericDao.java"
+			],
+			[
+				"actividadusuariodao",
+				"blunder-aba-back/src/main/java/com/abamobile/blunder/dao/ActividadUsuarioDao.java"
+			],
+			[
+				"actividadusuariodaot",
+				"blunder-aba-back/src/test/java/com/abamobile/blunder/dao/ActividadUsuarioDaoTest.java"
+			],
+			[
+				"actividadusuarioservicetest",
+				"blunder-aba-back/src/test/java/com/abamobile/blunder/services/ActividadUsuarioServiceTest.java"
+			],
+			[
+				"testdata",
+				"blunder-aba-back/src/test/resources/testData.xml"
+			],
+			[
+				"basetest",
+				"blunder-aba-back/src/test/java/com/abamobile/blunder/test/BaseTest.java"
+			],
+			[
+				"respuestadaotest",
+				"blunder-aba-back/src/test/java/com/abamobile/blunder/dao/RespuestaDaoTest.java"
+			],
+			[
+				"ldapuserimporterimpl",
+				"liferay-portal/portal-impl/src/com/liferay/portal/security/ldap/LDAPUserImporterImpl.java"
+			],
+			[
+				"ldapuserimporterutil",
+				"liferay-portal/portal-service/src/com/liferay/portal/security/ldap/LDAPUserImporterUtil.java"
+			],
+			[
+				"ldap",
+				"liferay-portal/portal-impl/src/META-INF/ldap-spring.xml"
+			],
+			[
+				"ldap-spring.xml",
+				"liferay-portal/portal-impl/classes/META-INF/ldap-spring.xml"
+			],
+			[
+				"portalcontextloaderlistener",
+				"liferay-portal/portal-impl/src/com/liferay/portal/spring/context/PortalContextLoaderListener.java"
+			],
+			[
+				"app.server.properties",
+				"liferay-portal/app.server.properties"
+			],
+			[
+				"build.properties",
+				"liferay-portal/build.properties"
+			],
+			[
+				"userloca",
+				"portal-service/src/com/liferay/portal/service/UserLocalServiceUtil.java"
+			],
+			[
+				"mave",
+				"build-maven.xml"
+			],
+			[
+				"build-common-plugins.xml",
+				"tools/sdk/build-common-plugins.xml"
+			],
+			[
+				"uild-common.xml",
+				"build-common.xml"
+			],
+			[
+				"landin",
+				"angular-course/app/partials/landing_page.html"
+			],
+			[
+				"service",
+				"angular-course/app/js/services.js"
+			],
+			[
+				"index",
+				"angular-course/app/index.html"
+			],
+			[
+				"contro",
+				"angular-course/app/js/controllers.js"
+			],
+			[
+				"app.css",
+				"app/css/app.css"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"_filter",
+				"sgmentia-svr/grails-app/views/report/_filter.gsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/eyeseetea/eyeseetea.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"UsuarioC",
+				"UsuarioC"
+			]
+		],
+		"width": 896.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
